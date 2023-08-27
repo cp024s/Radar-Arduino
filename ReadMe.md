@@ -31,10 +31,6 @@ This project demonstrates a simple radar system using an Arduino board, an ultra
 - Implement more advanced signal processing for better visualization.
 - Add features like object detection and alarms for specific distance thresholds.
 
-## Credits
-This project was created by [Your Name].
-Inspired by various Arduino and Processing community projects.
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
